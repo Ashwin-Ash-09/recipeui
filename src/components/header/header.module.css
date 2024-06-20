@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Tiny5&display=swap");
+
+.header {
+  font-size: xx-large;
+ font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-size: 5vh;
+  font-weight: 600;
+  font-style: normal;
+  text-align: center;
+}
+
+.link{
+  text-decoration: none;
+  color: black;
+}
+
+.header h2 {
+  padding: 6px;
+  margin: 20px;
+  margin-bottom: 10px;
+}

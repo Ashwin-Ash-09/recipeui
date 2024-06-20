@@ -1,0 +1,25 @@
+.table {
+    border-collapse: collapse;
+    margin: 10px 0;
+    width: 45vw;
+}
+
+ .table td {
+    padding: 12px;
+    text-align: left;
+}
+
+.table th {
+    padding: 10px;
+    background-color: #f4f4f4;
+}
+
+.table tr:hover {
+    background-color: #eaeaea;
+}
+
+@media only screen and (max-width: 800px){
+    .table{
+        width: 100%;
+    }
+}
