@@ -1,10 +1,10 @@
-**Simple Revipe UI**
+**Simple Recipe UI**
 
 This React application provides a user-friendly interface to search for recipes from the MealDB API. Users can enter a search term, and the app will retrieve relevant recipes with ingredients and instructions. Error handling is implemented to handle potential issues.
 
 **Features:**
 
-- Search for recipes by keyword using the MealDB API
+- Search for recipes by keyword using TheMealDB API
 - Display retrieved recipes with title, image
 - Navigate to a detailed view of each recipe with full ingredients list and instructions
 - Error handling for API requests and search results (e.g., no results found, network errors)
@@ -20,7 +20,7 @@ This React application provides a user-friendly interface to search for recipes 
 2. Install dependencies:
 
    ```bash
-   cd simple-revive-ui
+   cd recipeui
    npm install
    ```
 
